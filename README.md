@@ -7,7 +7,7 @@ with text or images to questions related to geometric graphs defined over the
 [Bicing](https://www.bicing.barcelona/es)® stations in the city of Barcelona. 
 
 <p align="center">
-  <img src='chat.jpeg'  width='250'/>
+  <img src='README Images/chat.jpeg'  width='250'/>
 </p>
 
 ## Instructions
@@ -17,7 +17,7 @@ conversation with the bot. Once this is done, the `/start` command will
 automatically trigger, allowing the introduction of the following instructions.
 
 <p align="center">
-  <img src='commands.jpeg'  width='250'/>
+  <img src='README Images/commands.jpeg'  width='250'/>
 </p>
 
 
@@ -106,5 +106,8 @@ This bot was developed by:
 
 Students of Data Science and Engineering at [UPC](https://www.upc.edu/ca).
 
+## License
+
+[MIT License](./LICENSE)
 
 
