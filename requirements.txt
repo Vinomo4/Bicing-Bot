@@ -1,0 +1,15 @@
+#
+#### Requirements for the BicingBot ####
+#
+pandas                  # Is installed in order to use DataFrames
+#
+networkx                # Is used to manipulate graphs
+#
+haversine               # To calculate distances between coordinates
+#
+geopy                   # Will return geographic coordinates given an address
+#
+staticmap               # Used to work with maps
+#
+python-telegram-bot     # In order to interact with the bot
+#
