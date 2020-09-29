@@ -12,7 +12,7 @@ with text or images to questions related to geometric graphs defined over the
 
 ## Instructions
 
-In order to chat with the bot, one must first install the Telegram application. Once it is installed, the user must write `@BCN_BicingBot` and open a
+In order to chat with the bot, one must first install the Telegram® application. Once it is installed, the user must write `@BCN_BicingBot` and open a
 conversation with the bot. Once this is done, the `/start` command will
 automatically trigger, allowing the introduction of the following instructions.
 
@@ -74,11 +74,13 @@ is possible) the cost of doing it, as well as the most expensive
 
 ## Architecture
 
-The project folder contains four files, one being this Readme; a second one used
-for the installation; and two more files directly related to the code of the bot.
-The `data.py` contains all the code related to the data acquisition, graph
-construction and calculations over the said graph. On the other hand, `bot.py`
-has the code related to the Telegram functionality of the bot.
+The repository folder contains several files, one being this README. The rest of them are: 
+* [`requirements.txt`](./requirements.txt) is used for [installation](#installation). and two more files directly related to the code of the bot.
+* [`data.py`](./data.py) contains all the code related to the data acquisition, graph construction and calculations over the said graph.
+* On the other hand, [`bot.py`](./bot.py) has the code related to the Telegram® functionality of the bot.
+
+
+*Note: The rest of the files in the master branch are auxiliary or license related*
 
 ## Installation
 
