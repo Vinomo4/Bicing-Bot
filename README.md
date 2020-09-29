@@ -75,7 +75,7 @@ is possible) the cost of doing it, as well as the most expensive
 ## Architecture
 
 The repository folder contains several files, one being this README. The rest of them are: 
-* [`requirements.txt`](./requirements.txt) is used for [installation](#installation). and two more files directly related to the code of the bot.
+* [`requirements.txt`](./requirements.txt) is used for [installation](#installation).
 * [`data.py`](./data.py) contains all the code related to the data acquisition, graph construction and calculations over the said graph.
 * On the other hand, [`bot.py`](./bot.py) has the code related to the Telegram® functionality of the bot.
 
