@@ -103,7 +103,7 @@ being inside the project folder.
 This bot was developed by:
 | [![Vinomo4](https://avatars2.githubusercontent.com/u/49389601?s=60&v=4)](https://github.com/Vinomo4) | [![CarlOwOs](https://avatars3.githubusercontent.com/u/49389491?s=60&u=b239b67c3f064bf2dae05e08ae9965b7c7e34c36&v=4)](https://github.com/CarlOwOs) |
 | --- | --- |
-| [Victor Novelle Moriano](https://github.com/Vinomo4) | [Carlos Hurtado Comin](https://github.com/CarlOwOs) |
+| [Víctor Novelle Moriano](https://github.com/Vinomo4) | [Carlos Hurtado Comin](https://github.com/CarlOwOs) |
 
 
 Students of Data Science and Engineering at [UPC](https://www.upc.edu/ca).
